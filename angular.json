@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "akita-playground"
+  "defaultProject": "akita-playground",
+  "cli": {
+    "defaultCollection": "akita-schematics"
+  }
 }
